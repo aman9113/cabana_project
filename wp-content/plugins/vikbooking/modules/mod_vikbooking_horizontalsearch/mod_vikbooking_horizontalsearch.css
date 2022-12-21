@@ -1,0 +1,913 @@
+.vrcmodroomsboxdiv {
+    position: relative;
+}
+
+.vbmodhorsearchmaindiv {
+    display: inline-block;
+    width: 100%;
+}
+
+.vbmodhorsearchmaindiv form>div {
+    display: inline-block;
+    float: left;
+    margin: 0 20px 0 0;
+    align-self: flex-end;
+}
+
+.vbmodhorsearchcheckindiv label,
+.vbmodhorsearchcheckoutdiv label,
+.vbmodhorsearchroomsel label,
+.vbmodhorsearchbookdiv label,
+.vbmodhscategories {
+    display: block;
+    width: 100%;
+    margin: 0 0 5px 0;
+}
+
+.vbmodhorsearchbookdiv {
+    display: inline-block;
+    float: left;
+}
+
+.vbmodhorsearchmaindiv .input-group i {
+    padding: 0 10px;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-left: 0;
+    border-radius: 4px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    height: 32px;
+    line-height: 31px;
+    float: left;
+    cursor: pointer;
+    background: #F6F6F6;
+}
+
+.vbmodhorsearchmaindiv .input-group input {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    height: 32px !important;
+    padding: 0px 12px !important;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+
+.vbmodhorsearchmaindiv .ui-datepicker-trigger {
+    display: none;
+}
+
+.vbmodhorsearchroomdentr .horsanumdiv,
+.vbmodhorsearchroomdentr .horscnumdiv {
+    display: inline-block;
+    float: none;
+}
+
+.vbmodhorsearchrac .horsanumsel select,
+.vbmodhorsearchrac .horscnumsel select,
+.vbhsrnselsp select,
+.vbhsrcselsp select,
+.vbmodhorsearchroomdentr .horsanumdiv select,
+.vbmodhorsearchroomdentr .horscnumdiv select {
+    display: inline-block;
+    max-width: 100% !important;
+    height: 34px !important;
+    padding: 5px 30px 5px 7px;
+    line-height: 1.5;
+    color: #495057;
+    vertical-align: middle;
+    background: #fff url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23333' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E") no-repeat right .75rem center;
+    background-size: 8px 10px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    min-width: unset;
+    margin-bottom: 0 !important;
+}
+
+.vbo-horizsearch-humanformat-wrap .vbmodhorsearch-hum-guests-modifier select,
+.vbo-horizsearch-inquiryformat-wrap .vbmodhorsearch-hum-guests-modifier select {
+    height: auto !important;
+}
+
+.vbmodhorsearchrac .horsanumsel select[multiple],
+.vbmodhorsearchrac .horscnumsel select[multiple],
+.vbhsrnselsp select[multiple],
+.vbhsrcselsp select[multiple] {
+    height: auto;
+    background-image: none;
+    padding: 5px;
+}
+
+.vbmodhorsearchrac .vbmodhorsearchroomsel {
+    display: inline-block;
+    float: left;
+    margin: 0 15px 0 0;
+}
+
+.vbmodhorsearchrac .vbmodhorsearchroomdentr {
+    display: inline-block;
+}
+
+.vbmodhorsearchroomdentr .horsanumlb,
+.vbmodhorsearchroomdentr .horscnumlb {
+    display: block;
+    width: 100%;
+    margin: 0 0 5px 0;
+}
+
+.horsanumdiv,
+.horscnumdiv {
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+.vbmoreroomscontmod .vbmodhorsearchroomdentr {
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+}
+
+.vbmodhorsearchrac>.vbmodhorsearchroomdentr>* {
+    display: table;
+}
+
+.vbmoreroomscontmod .vbmodhorsearchroomdentr>*,
+.vbmoreroomscontmod .vbmodhorsearchroomdentr .horsanumdiv>* {
+    display: inline-block;
+}
+
+.vbsearchinputmod {
+    cursor: pointer;
+}
+
+.vbchooseadperoomtab td,
+.vbmoreroomscontmod td {
+    width: 50px;
+}
+
+.vbmodhorsearchbookdiv {
+    margin: 0;
+}
+
+.vbsearchinputmodhors {
+    background: #365868;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 23px 0 0 15px;
+    padding: 7px 20px;
+    border: 0;
+}
+
+.vbmodhorsearchroomdentrfirst .horsrnum {
+    display: inline-block;
+    float: left;
+    margin: 30px 15px 0 0;
+}
+
+.vbmoreroomscontmod .vbmodhorsearchroomdentr {
+    margin: 10px 0 0 0;
+}
+
+.vbmoreroomscontmod .horsrnum {
+    margin: 9px 15px 0 0;
+    float: left;
+}
+
+.vbmoreroomscontmod .horsanumsel {
+    margin: 0 10px 0 0;
+}
+
+.vbmodhorsearchtotnights {
+    align-self: flex-end;
+}
+
+.vbmodhorsearchmaindiv input[type=text] {
+    width: auto !important;
+    margin: 0;
+}
+
+.vbmodhorsearchmaindiv form .vbmodhorsearchbookdiv {
+    margin: 0;
+    float: left;
+    align-self: flex-end;
+}
+
+.vbmodhorsearchmaindiv .input-group input {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+/* Human Readable layout */
+
+.vbo-horizsearch-humanformat-wrap {
+    position: relative;
+}
+
+.vbo-horizsearch-humanformat-wrap>form {
+    display: flex;
+}
+
+.vbo-horizsearch-showcalendar {
+    border: 1px solid #ddd;
+    padding: 10px 15px 10px;
+    border-radius: 4px;
+    display: flex;
+    line-height: 1.1em;
+    min-height: 53px;
+}
+
+.vbo-horizsearch-showcalendar i {
+    vertical-align: top;
+    margin: 5px 15px 0 0;
+    font-size: 22px;
+}
+
+.vbo-horizsearch-showcalendar>div {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    display: flex;
+}
+
+.vbmodhorsearchmaindiv form>.vbmodhorsearch-hum-dates-wrap {
+    display: flex;
+    flex: 1;
+}
+
+.vbmodhorsearch-humcalcont {
+    margin-right: 5px;
+    cursor: pointer;
+    flex: 1;
+}
+
+.vbo-horizsearch-humanformat-wrap label {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.vbmodhorsearch-hum-dates-wrap .vbo-horizsearch-numnights-inner {
+    border: 1px solid #ddd;
+    padding: 15px 15px;
+    align-self: flex-end;
+    border-radius: 4px;
+    font-size: 17.4px;
+    min-height: 53px;
+}
+
+.vbo-horizsearch-showcalendar .vbo-horizsearch-placeholder {
+    font-size: 18.7px;
+    padding: 9.2px 0;
+    display: inline-block;
+}
+
+.vbo-horizsearch-showcalendar>div span {
+    display: inline-block;
+}
+
+.vbmodhorsearch-humcalcont .vbo-horizsearch-dpicker-cont-active,
+.vbmodhorsearch-humcalcont .vbo-horizsearch-showcalendar:hover {
+    border-color: #146d74;
+}
+
+.vbo-horizsearch-showcalendar>div .vbo-horizsearch-period-wday {
+    display: block;
+    font-size: 13px;
+    flex: 100%;
+    text-align: left;
+    text-transform: lowercase;
+}
+
+.vbo-horizsearch-showcalendar .vbo-horizsearch-period-dt {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 5px;
+    font-size: 13px;
+    overflow: hidden;
+    max-width: 110px;
+}
+
+.vbo-horizsearch-showcalendar>div .vbo-horizsearch-period-mday {
+    font-size: 24px;
+    font-weight: bold;
+    vertical-align: top;
+    margin-top: 3px;
+}
+
+.vbo-horizsearch-showcalendar>div .vbo-horizsearch-period-month {
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    margin-right: 4px;
+}
+
+.vbo-horizsearch-humanformat-wrap .hasDatepicker,
+.vbo-horizsearch-inquiryformat-wrap .hasDatepicker {
+    position: absolute;
+    z-index: 10000;
+    width: auto;
+}
+
+.vbo-horizsearch-humanformat-wrap .vbmodhorsearch-hum-dates-wrap>div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.vbmodhorsearch-hum-guests-wrap {
+    align-self: end;
+    position: relative;
+}
+
+.vbmodhorsearch-hum-guests-count {
+    border: 1px solid #ddd;
+    padding: 10px 15px 10px;
+    border-radius: 4px;
+    display: flex;
+    cursor: pointer;
+    min-height: 53px;
+}
+
+.vbmodhorsearch-hum-guests-count-active,
+.vbmodhorsearch-hum-guests-count:hover {
+    border-color: #146d74;
+}
+
+.vbmodhorsearch-hum-guests-wrap .vbmodhorsearch-hum-guests-count>div {
+    display: flex;
+    margin-right: 10px;
+}
+
+.vbmodhorsearch-hum-guests-wrap .vbmodhorsearch-hum-guests-count>div:last-child {
+    margin-right: 0;
+}
+
+.vbmodhorsearch-hum-guests-wrap .vbmodhorsearch-hum-guests-count>div label {
+    order: 2;
+    text-transform: uppercase;
+    font-size: 13px;
+    margin: 9px 5px 0;
+}
+
+.vbmodhorsearch-hum-guests-wrap .vbmodhorsearch-hum-guests-count>div span {
+    font-weight: bold;
+    font-size: 24px;
+    align-self: flex-end;
+}
+
+.vbmodhorsearch-hum-guests-modifier {
+    position: absolute;
+    width: 285px;
+    border: 1px solid #ddd;
+    margin-top: 5px;
+    border-radius: 4px;
+    padding: 15px;
+    z-index: 1000;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
+    background: #fff;
+}
+
+.vbmodhorsearch-hum-guests-modifier .vbmodhorsearchroomdentr {
+    margin-top: 10px;
+}
+
+.vbmodhorsearch-hum-guests-modifier-inner .vbhsrnselsp select {
+    width: 100%;
+    border-radius: 0;
+}
+
+.vbmodhorsearch-hum-guests-modifier-inner .vbmodhorsearchroomdentrfirst,
+.vbmodhorsearch-hum-guests-modifier-inner .vbmoreroomscontmod .vbmodhorsearchroomdentr {
+    display: flex;
+}
+
+.vbmodhorsearch-hum-guests-modifier-inner .vbmodhorsearchroomdentrfirst>div {
+    flex: 1;
+}
+
+.vbmodhorsearch-hum-guests-modifier-inner .vbmodhorsearchroomdentrfirst .horscnumdiv {
+    margin-right: 0;
+}
+
+.vbmodhorsearch-hum-guests-modifier-inner .vbmodhorsearchroomdentr .horsanumdiv select,
+.vbmodhorsearch-hum-guests-modifier-inner .vbmodhorsearchroomdentr .horscnumdiv select {
+    border-radius: 0;
+    width: 100%;
+}
+
+.vbmodhorsearch-hum-guests-modifier-inner .vbmoreroomscontmod .vbmodhorsearchroomdentr .horsanumdiv {
+    flex: 1;
+    display: flex;
+    margin-right: 0;
+}
+
+.vbmodhorsearch-hum-guests-modifier-inner .vbmoreroomscontmod .vbmodhorsearchroomdentr .horsanumdiv>* {
+    flex: 1;
+}
+
+.vbmodhorsearch-hum-guests-modifier-inner .vbmoreroomscontmod .vbmodhorsearchroomdentr .horsanumdiv>.horscnumdiv {
+    margin-right: 0;
+}
+
+.vbmodhorsearch-hum-guests-modifier-inner .vbmoreroomscontmod .horsanumsel {
+    margin-right: 10px;
+}
+
+.vbo-horizsearch-humanformat-wrap .vbmodhorsearchcategoriesblock select {
+    height: auto !important;
+    padding: 15px 18px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.vbo-horizsearch-humanformat-wrap .vbsearchinputmodhors {
+    font-size: 16px;
+    padding: 17px 20px;
+    margin-top: 0;
+    line-height: 1.1em;
+    height: auto;
+}
+
+/* Request Info Form */
+
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields {
+    margin: 10px 0 10px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.vbo-mod-horsearch-inquiry-fields .vbo-mod-horsearch-inquiry-field {
+    flex-basis: calc(50% - 10px);
+    margin: 5px;
+}
+
+.vbo-mod-horsearch-inquiry-fields .vbo-mod-horsearch-inquiry-field label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields input,
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields select {
+    width: 100% !important;
+}
+
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields select {
+    border-radius: 0;
+    max-width: 100% !important;
+    padding-right: 30px;
+    color: #495057;
+    vertical-align: middle;
+    background: #fff url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23333' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E") no-repeat right .75rem center;
+    background-size: auto;
+    background-size: 8px 10px;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    min-width: unset;
+    margin-bottom: 0 !important;
+}
+
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields .vbo-mod-horsearch-inquiry-field[data-type="checkbox"],
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields .vbo-mod-horsearch-inquiry-field[data-type="special_requests"] {
+    flex-basis: 100%;
+    margin: 5px 0;
+}
+
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields .vbo-mod-horsearch-inquiry-field[data-type="checkbox"] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+}
+
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields .vbo-mod-horsearch-inquiry-field[data-type="checkbox"] label {
+    display: inline-block;
+    order: 2;
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields .vbo-mod-horsearch-inquiry-field[data-type="checkbox"] input {
+    width: auto !important;
+}
+
+.vbmodhorsearchmaindiv form>.vbo-mod-horsearch-inquiry-fields .vbo-mod-horsearch-inquiry-field textarea {
+    width: 100%;
+    min-height: 150px;
+}
+
+.vbmodhorsearchmaindiv form .vbo-mod-horsearch-inquiry-submit {
+    width: 100%;
+    text-align: right;
+}
+
+.vbmodhorsearchmaindiv form .vbo-mod-horsearch-inquiry-submit .vbsearchinputmodhors {
+    margin-left: 0;
+    margin-top: 0;
+    padding: 10px 30px;
+}
+
+.vbmodhorsearchmaindiv form .vbo-mod-horsearch-inquiry-checkav {
+    width: 100%;
+    text-align: left;
+    border-top: 1px solid #ddd;
+    margin-right: 0;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.vbmodhorsearchmaindiv form .vbo-mod-horsearch-inquiry-checkav .vbsearchinputmodhors {
+    margin-top: 0;
+}
+
+.vbmodhorsearchmaindiv form .vbo-mod-horsearch-inquiry-checkav h4 {
+    font-style: italic;
+    font-size: 24px;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.vbmodhorsearchmaindiv form .vbo-mod-horsearch-inquiry-checkav-inner div {
+    display: inline-block;
+}
+
+.vbmodhorsearchmaindiv form .vbo-mod-horsearch-inquiry-checkav .vbo-mod-horsearch-checkav-btn {
+    margin-left: 0;
+    padding: 10px 30px;
+    background: #444;
+}
+
+.vbmodhorsearchmaindiv form .vbo-mod-horsearch-inquiry-mess-success {
+    padding: 10px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #46a546;
+}
+
+/* jQuery Calendar */
+
+.ui-datepicker,
+.ui-datepicker.ui-datepicker-multi {
+    width: auto !important;
+}
+
+.ui-datepicker-multi .ui-datepicker-group {
+    width: calc(50% - 13px) !important;
+    box-sizing: content-box;
+}
+
+.ui-datepicker-multi-2 .ui-datepicker-group-first {
+    border-right: 1px solid #eee;
+    padding-right: 12px;
+    margin-right: 12px;
+}
+
+.ui-datepicker table.ui-datepicker-calendar {
+    table-layout: inherit;
+    font-size: 0.75em !important;
+    border-spacing: 2px;
+    border-collapse: initial;
+}
+
+.ui-datepicker-multi .ui-datepicker-group table {
+    margin-bottom: 0;
+}
+
+.ui-datepicker-multi .ui-datepicker-group-first .ui-datepicker-calendar {
+    margin-right: 5px;
+}
+
+.ui-datepicker-multi .ui-datepicker-group table tbody tr {
+    border-bottom: 0;
+}
+
+.ui-datepicker table td {
+    width: auto !important;
+    text-align: center;
+    padding: 1px !important;
+    border: 1px solid #eee;
+}
+
+.ui-datepicker table th {
+    width: auto !important;
+    padding: 1px !important;
+}
+
+.ui-datepicker table td:hover {
+    border: 1px solid #990000;
+}
+
+.ui-datepicker .ui-datepicker-title {
+    font-size: 18px !important;
+    font-weight: 400 !important;
+}
+
+.ui-datepicker td span,
+.ui-datepicker td a {
+    font-size: 13px !important;
+    border: 0 !important;
+    border-radius: 8px;
+    width: 30px;
+    height: 30px;
+    line-height: 26px !important;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+    background: transparent !important;
+    font-weight: 500 !important;
+}
+
+.ui-state-active,
+.ui-widget-content .ui-state-active,
+.ui-widget-header .ui-state-active {
+    color: #fff !important;
+}
+
+.ui-widget-header {
+    background: transparent !important;
+    border: 0 !important;
+    font-size: 22px !important;
+    font-weight: 300 !important;
+}
+
+.ui-state-disabled,
+.ui-widget-content .ui-state-disabled,
+.ui-widget-header .ui-state-disabled {
+    opacity: 0.2 !important;
+    border: 0;
+}
+
+.ui-datepicker .ui-datepicker-today {
+    color: #146d74
+}
+
+.ui-datepicker .ui-datepicker-today a {
+    color: #146d74;
+}
+
+.ui-datepicker-other-month {
+    background: transparent !important;
+}
+
+.ui-datepicker td span,
+.ui-datepicker td a {
+    text-align: center !important;
+    font-size: 11px !important;
+    border: 0 !important;
+    border-radius: 8px;
+}
+
+#ui-datepicker-div {
+    box-shadow: 0 2px 5px 0 rgba(50, 54, 72, .08);
+    border-radius: 0;
+    padding: 20px;
+}
+
+.ui-datepicker .ui-datepicker-header .ui-datepicker-title {
+    font-size: 14px !important;
+    font-weight: bold !important;
+    color: #444;
+    margin-top: -5px;
+    margin-bottom: 5px;
+}
+
+.ui-datepicker th {
+    font-size: 10px !important;
+    text-transform: uppercase;
+    color: #444 !important;
+    padding: 10px 0;
+}
+
+.ui-datepicker-header .ui-corner-all.ui-state-hover {
+    border-color: #146d74 !important;
+    background: transparent !important;
+}
+
+.ui-datepicker .ui-datepicker-prev,
+.ui-datepicker .ui-datepicker-next {
+    width: 34px !important;
+    height: 34px !important;
+    border: 1px solid #fff;
+    border-radius: 8px;
+}
+
+.ui-datepicker .ui-datepicker-prev,
+.ui-datepicker .ui-datepicker-next,
+.ui-datepicker .ui-datepicker-prev-hover,
+.ui-datepicker .ui-datepicker-next-hover {
+    top: -7px !important;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.ui-datepicker .ui-datepicker-prev span,
+.ui-datepicker .ui-datepicker-next span {
+    top: 17px !important;
+}
+
+/* @wponly */
+
+.vbo-horizsearch-dpicker-cont>.ui-datepicker-multi {
+    width: auto !important;
+    padding: 20px;
+}
+
+.vbo-horizsearch-dpicker-cont a {
+    box-shadow: none !important;
+}
+
+@media only screen and (max-width: 1280px) {
+    .vbmodhorsearch-hum-dates-wrap {
+        flex-wrap: wrap;
+    }
+    .vbmodhorsearch-humcalcont {
+        order: 2;
+    }
+    .vbmodhorsearch-hum-dates-wrap .vbmodhorsearchtotnights {
+        flex: 100%;
+        order: 0;
+    }
+    .vbmodhorsearch-hum-dates-wrap .vbo-horizsearch-numnights-inner {
+        padding: 5px 15px;
+        margin-bottom: 5px;
+    }
+    .vbmodhorsearch-hum-dates-wrap .vbmodhorsearchcheckoutdiv {
+        margin-right: 0;
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    .vbo-horizsearch-humanformat-wrap>form {
+        flex-wrap: wrap;
+    }
+    .vbmodhorsearchmaindiv form>.vbmodhorsearch-hum-dates-wrap {
+        flex: 100%;
+        margin: 0 0 5px 0;
+    }
+    .vbmodhorsearch-hum-guests-wrap {
+        flex: 1;
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    .vbo-horizsearch-dpicker-cont {
+        width: 100%;
+        left: 0;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .ui-datepicker.ui-datepicker-multi {
+        width: auto !important;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .vbo-mod-horsearch-inquiry-fields .vbo-mod-horsearch-inquiry-field {
+        flex-basis: 100%;
+        margin: 5px 0;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .vbo-horizsearch-humanformat-wrap .vbmodhorsearch-hum-guests-wrap,
+    .vbo-horizsearch-humanformat-wrap .vbmodhorsearchcategoriesblock {
+        flex: 100%;
+        margin: 0 0 5px 0;
+    }
+    .vbo-horizsearch-humanformat-wrap form .vbmodhorsearchbookdiv {
+        flex: 100%;
+        margin-top: 5px;
+    }
+    .vbo-horizsearch-humanformat-wrap .vbmodhorsearchbookdiv input,
+    .vbo-horizsearch-humanformat-wrap .vbmodhorsearchcategoriesblock span select,
+    .vbmodhorsearch-hum-guests-modifier {
+        width: 100%;
+    }
+    .vbo-horizsearch-humanformat-wrap .vbmodhorsearchbookdiv input {
+        margin-left: 0;
+    }
+    .vbo-horizsearch-humanformat-wrap .vbsearchinputmodhors {
+        margin-left: 0;
+    }
+    .vbo-horizsearch-humanformat-wrap .vbmodhorsearchcategoriesblock span {
+        display: inline-block;
+        width: 100%;
+    }
+    #ui-datepicker-div {
+        left: 50% !important;
+        transform: translate(-50%);
+        -webkit-transform: translate(-50%);
+        -moz-transform: translate(-50%);
+    }
+    .ui-datepicker .ui-datepicker-group {
+        float: none !important;
+        width: 100% !important;
+    }
+    .vbo-horizsearch-humanformat-wrap .hasDatepicker {
+        width: 100%;
+    }
+    .vbmodhorsearch-hum-dates-wrap .vbmodhorsearch-humcalcont {
+        flex-basis: 100%;
+        margin-bottom: 15px;
+        margin-right: 0;
+    }
+    .vbmodhorsearch-hum-dates-wrap .vbo-horizsearch-numnights-inner {
+        min-height: inherit;
+        margin-bottom: 10px;
+    }
+    .vbmodhorsearch-hum-guests-modifier {
+        top: 0;
+    }
+    .vbo-horizsearch-standardformat-wrap>form {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .vbo-horizsearch-standardformat-wrap.vbmodhorsearchmaindiv form>div {
+        flex-basis: 100%;
+        margin-right: 0 !important;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .vbo-horizsearch-standardformat-wrap.vbmodhorsearchmaindiv .input-group {
+        display: flex;
+    }
+    .vbo-horizsearch-standardformat-wrap.vbmodhorsearchmaindiv .input-group input {
+        flex: 1;
+    }
+    .vbo-horizsearch-standardformat-wrap.vbmodhorsearchmaindiv .vbmodhorsearchrac {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .vbo-horizsearch-standardformat-wrap.vbmodhorsearchmaindiv .vbmodhorsearchrac .vbmodhorsearchroomsel {
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .vbo-horizsearch-standardformat-wrap.vbmodhorsearchmaindiv .vbmodhorsearchrac .vbmodhorsearchroomdentr {
+        flex-basis: 100%;
+        margin-top: 10px;
+    }
+    .vbo-horizsearch-standardformat-wrap.vbmodhorsearchmaindiv .vbmodhorsearchrac select {
+        width: 100%;
+    }
+    .vbo-horizsearch-standardformat-wrap .vbmodhorsearchrac>.vbmodhorsearchroomdentr>*,
+    .vbo-horizsearch-standardformat-wrap .vbmodhorsearchrac .vbmoreroomscontmod>* .vbmodhorsearchroomdentr {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .vbo-horizsearch-standardformat-wrap .vbmodhorsearchrac>.vbmodhorsearchroomdentr>*>div,
+    .vbo-horizsearch-standardformat-wrap .vbmodhorsearchrac .vbmoreroomscontmod>* .vbmodhorsearchroomdentr .horsanumdiv {
+        flex-basis: 100%;
+    }
+    .vbo-horizsearch-standardformat-wrap .vbmoreroomscontmod>div>.vbmodhorsearchroomdentr>.horsanumdiv {
+        display: flex;
+        margin-right: 0;
+    }
+    .vbo-horizsearch-standardformat-wrap .vbmoreroomscontmod>div>.vbmodhorsearchroomdentr>.horsanumdiv>* {
+        flex: 1;
+    }
+    .vbo-horizsearch-standardformat-wrap .vbmodhorsearchcategoriesblock .vbhsrcselsp {
+        display: block;
+    }
+    .vbo-horizsearch-standardformat-wrap .vbmodhorsearchcategoriesblock .vbhsrcselsp select {
+        width: 100%;
+    }
+    .ui-state-default,
+    .ui-widget-content .ui-state-default,
+    .ui-widget-header .ui-state-default {
+        padding: 0;
+    }
+    .vbmodhorsearchmaindiv form .vbo-mod-horsearch-inquiry-submit .btn {
+        width: 100%;
+    }
+    .vbmodhorsearch-hum-guests-modifier {
+        position: relative;
+    }
+}

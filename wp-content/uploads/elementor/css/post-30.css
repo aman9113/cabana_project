@@ -1,0 +1,1626 @@
+.elementor-30 .elementor-element.elementor-element-8530c15>.elementor-container {
+    max-width: 751px;
+    min-height: 100vh;
+}
+
+.elementor-30 .elementor-element.elementor-element-8530c15>.elementor-background-overlay {
+    background-color: transparent;
+    background-image: radial-gradient(at center center, var( --e-global-color-astglobalcolor6) 0%, var( --e-global-color-astglobalcolor0) 100%);
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-8530c15 {
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-8530c15,
+.elementor-30 .elementor-element.elementor-element-8530c15>.elementor-background-overlay {
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-e7080c0 {
+    text-align: center;
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 27px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+}
+
+.elementor-30 .elementor-element.elementor-element-e7080c0>.elementor-widget-container {
+    margin: -2px -2px -59px -2px;
+}
+
+.elementor-30 .elementor-element.elementor-element-8c5c162 {
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-8c5c162 .elementor-heading-title {
+    color: #F3C660;
+    font-family: "Akaya Telivigala", Sans-serif;
+    font-size: 4.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: underline;
+    line-height: 1em;
+    letter-spacing: 2.2px;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+}
+
+.elementor-30 .elementor-element.elementor-element-8c5c162>.elementor-widget-container {
+    margin: -75px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-30452eb {
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-30452eb .elementor-heading-title {
+    color: #FFC8C9;
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 24px;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-30452eb>.elementor-widget-container {
+    margin: 0px 0px 199px 0px;
+    padding: 1em 0em 0em 0em;
+}
+
+.elementor-30 .elementor-element.elementor-element-5401429a:not(.elementor-motion-effects-element-type-background),
+.elementor-30 .elementor-element.elementor-element-5401429a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #3895C8;
+    background-image: url("https://cabbana.thegriham.com/wp-content/uploads/2022/12/DEEP4051-1-scaled.jpg");
+    background-position: 0px -699px;
+}
+
+.elementor-30 .elementor-element.elementor-element-5401429a:hover {
+    background-color: #E11212;
+}
+
+.elementor-30 .elementor-element.elementor-element-5401429a>.elementor-background-overlay {
+    background-color: #E7DDDDBF;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-5401429a {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 80px 0px 80px 0px;
+}
+
+.elementor-bc-flex-widget .elementor-30 .elementor-element.elementor-element-37d70b3c.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-37d70b3c.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-37d70b3c:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-30 .elementor-element.elementor-element-37d70b3c>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #9E700980;
+}
+
+.elementor-30 .elementor-element.elementor-element-37d70b3c>.elementor-element-populated,
+.elementor-30 .elementor-element.elementor-element-37d70b3c>.elementor-element-populated>.elementor-background-overlay,
+.elementor-30 .elementor-element.elementor-element-37d70b3c>.elementor-background-slideshow {
+    border-radius: 7px 7px 7px 7px;
+}
+
+.elementor-30 .elementor-element.elementor-element-37d70b3c>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 20px 0px 20px;
+    --e-column-margin-right: 20px;
+    --e-column-margin-left: 20px;
+    padding: 30px 30px 30px 30px;
+}
+
+.elementor-30 .elementor-element.elementor-element-37d70b3c>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-49401f66 img {
+    border-radius: 7px 7px 7px 7px;
+}
+
+.elementor-30 .elementor-element.elementor-element-471f65b0 {
+    text-align: left;
+}
+
+.elementor-30 .elementor-element.elementor-element-471f65b0 .elementor-heading-title {
+    color: #ffffff;
+    font-family: "Archivo", Sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.elementor-30 .elementor-element.elementor-element-471f65b0>.elementor-widget-container {
+    margin: 40px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-56bbd512 {
+    text-align: left;
+}
+
+.elementor-30 .elementor-element.elementor-element-56bbd512 .elementor-heading-title {
+    color: #000000;
+    font-family: "Archivo", Sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.elementor-30 .elementor-element.elementor-element-56bbd512>.elementor-widget-container {
+    margin: -10px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-2fb1deb0 {
+    text-align: left;
+    color: #ffffff;
+    font-family: "Lato", Sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.elementor-30 .elementor-element.elementor-element-89b16a1 .elementor-button {
+    font-family: "Archivo", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: #FFFCFB;
+    color: #FFFCFB;
+    background-color: #F06700;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 5px -5px 60px 0px rgba(0, 0, 0, 0.1);
+    padding: 16px 50px 16px 50px;
+}
+
+.elementor-30 .elementor-element.elementor-element-89b16a1 .elementor-button:hover,
+.elementor-30 .elementor-element.elementor-element-89b16a1 .elementor-button:focus {
+    background-color: #166cff;
+}
+
+.elementor-30 .elementor-element.elementor-element-89b16a1>.elementor-widget-container {
+    margin: 30px 0px 0px 0px;
+}
+
+.elementor-bc-flex-widget .elementor-30 .elementor-element.elementor-element-7fa2c8f.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-7fa2c8f.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-7fa2c8f:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-30 .elementor-element.elementor-element-7fa2c8f>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #9E700980;
+}
+
+.elementor-30 .elementor-element.elementor-element-7fa2c8f>.elementor-element-populated,
+.elementor-30 .elementor-element.elementor-element-7fa2c8f>.elementor-element-populated>.elementor-background-overlay,
+.elementor-30 .elementor-element.elementor-element-7fa2c8f>.elementor-background-slideshow {
+    border-radius: 7px 7px 7px 7px;
+}
+
+.elementor-30 .elementor-element.elementor-element-7fa2c8f>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 20px 0px 20px;
+    --e-column-margin-right: 20px;
+    --e-column-margin-left: 20px;
+    padding: 30px 30px 30px 30px;
+}
+
+.elementor-30 .elementor-element.elementor-element-7fa2c8f>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-660c5b9 img {
+    border-radius: 7px 7px 7px 7px;
+}
+
+.elementor-30 .elementor-element.elementor-element-c493efb {
+    text-align: left;
+}
+
+.elementor-30 .elementor-element.elementor-element-c493efb .elementor-heading-title {
+    color: #ffffff;
+    font-family: "Archivo", Sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.elementor-30 .elementor-element.elementor-element-c493efb>.elementor-widget-container {
+    margin: 40px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-e2af4e8 {
+    text-align: left;
+}
+
+.elementor-30 .elementor-element.elementor-element-e2af4e8 .elementor-heading-title {
+    color: #000000;
+    font-family: "Archivo", Sans-serif;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.elementor-30 .elementor-element.elementor-element-e2af4e8>.elementor-widget-container {
+    margin: -10px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-b9ce073 {
+    text-align: left;
+    color: #ffffff;
+    font-family: "Lato", Sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.elementor-30 .elementor-element.elementor-element-6b99326 .elementor-button {
+    font-family: "Archivo", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: #FFFCFB;
+    color: #FFFCFB;
+    background-color: #F06700;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 5px -5px 60px 0px rgba(0, 0, 0, 0.1);
+    padding: 16px 50px 16px 50px;
+}
+
+.elementor-30 .elementor-element.elementor-element-6b99326 .elementor-button:hover,
+.elementor-30 .elementor-element.elementor-element-6b99326 .elementor-button:focus {
+    background-color: #166cff;
+}
+
+.elementor-30 .elementor-element.elementor-element-6b99326>.elementor-widget-container {
+    margin: 30px 0px 0px 0px;
+}
+
+.elementor-bc-flex-widget .elementor-30 .elementor-element.elementor-element-cb9cf98.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-cb9cf98.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-cb9cf98:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-30 .elementor-element.elementor-element-cb9cf98>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #9E700980;
+}
+
+.elementor-30 .elementor-element.elementor-element-cb9cf98>.elementor-element-populated,
+.elementor-30 .elementor-element.elementor-element-cb9cf98>.elementor-element-populated>.elementor-background-overlay,
+.elementor-30 .elementor-element.elementor-element-cb9cf98>.elementor-background-slideshow {
+    border-radius: 7px 7px 7px 7px;
+}
+
+.elementor-30 .elementor-element.elementor-element-cb9cf98>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 20px 0px 20px;
+    --e-column-margin-right: 20px;
+    --e-column-margin-left: 20px;
+    padding: 30px 30px 30px 30px;
+}
+
+.elementor-30 .elementor-element.elementor-element-cb9cf98>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-0085689 img {
+    border-radius: 7px 7px 7px 7px;
+}
+
+.elementor-30 .elementor-element.elementor-element-d339dc3 {
+    text-align: left;
+}
+
+.elementor-30 .elementor-element.elementor-element-d339dc3 .elementor-heading-title {
+    color: #ffffff;
+    font-family: "Archivo", Sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.elementor-30 .elementor-element.elementor-element-d339dc3>.elementor-widget-container {
+    margin: 40px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-bb7652d {
+    text-align: left;
+}
+
+.elementor-30 .elementor-element.elementor-element-bb7652d .elementor-heading-title {
+    color: #000000;
+    font-family: "Archivo", Sans-serif;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.elementor-30 .elementor-element.elementor-element-bb7652d>.elementor-widget-container {
+    margin: -10px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-b12d2db {
+    text-align: left;
+    color: #ffffff;
+    font-family: "Lato", Sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.elementor-30 .elementor-element.elementor-element-d26d1fb .elementor-button {
+    font-family: "Archivo", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    fill: #FFFCFB;
+    color: #FFFCFB;
+    background-color: #F06700;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 5px -5px 60px 0px rgba(0, 0, 0, 0.1);
+    padding: 16px 50px 16px 50px;
+}
+
+.elementor-30 .elementor-element.elementor-element-d26d1fb .elementor-button:hover,
+.elementor-30 .elementor-element.elementor-element-d26d1fb .elementor-button:focus {
+    background-color: #166cff;
+}
+
+.elementor-30 .elementor-element.elementor-element-d26d1fb>.elementor-widget-container {
+    margin: 30px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-2030f84>.elementor-container {
+    max-width: 937px;
+}
+
+.elementor-30 .elementor-element.elementor-element-2030f84 {
+    margin-top: -54px;
+    margin-bottom: 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-1294746>.elementor-widget-container {
+    padding: 10px 10px 10px 10px;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-1294746 {
+    width: var( --container-widget-width, 100%);
+    max-width: 100%;
+    --container-widget-width: 100%;
+    --container-widget-flex-grow: 0;
+    align-self: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-1552b345 {
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-4cdca976:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-30 .elementor-element.elementor-element-4cdca976>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://cabbana.thegriham.com/wp-content/uploads/2022/12/pexels-photo-262048.jpeg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-30 .elementor-element.elementor-element-4cdca976>.elementor-element-populated {
+    border-style: none;
+    box-shadow: 0px -1px 15px -1px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-4cdca976>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-30cc72a {
+    --spacer-size: 40px;
+}
+
+.elementor-30 .elementor-element.elementor-element-1b963fb2 {
+    --spacer-size: 50px;
+}
+
+.elementor-30 .elementor-element.elementor-element-6f03c35b>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-6f03c35b:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-30 .elementor-element.elementor-element-6f03c35b>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-30 .elementor-element.elementor-element-6f03c35b>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 6em 6em 8em 6em;
+}
+
+.elementor-30 .elementor-element.elementor-element-6f03c35b>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-5a1be40f {
+    text-align: left;
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-5a1be40f .elementor-heading-title {
+    font-family: "Playfair Display", Sans-serif;
+    text-transform: capitalize;
+    line-height: 1em;
+}
+
+.elementor-30 .elementor-element.elementor-element-5a1be40f>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-447357bf {
+    color: #3f3f3f;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2.2em;
+    letter-spacing: 2.2px;
+}
+
+.elementor-30 .elementor-element.elementor-element-447357bf>.elementor-widget-container {
+    margin: 0px 0px 30px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-1e414cae {
+    --icon-box-icon-margin: 10px;
+}
+
+.elementor-30 .elementor-element.elementor-element-1e414cae .elementor-icon {
+    font-size: 12px;
+}
+
+.elementor-30 .elementor-element.elementor-element-1e414cae .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-30 .elementor-element.elementor-element-1e414cae .elementor-icon-box-title {
+    margin-bottom: 7px;
+    color: #000000;
+}
+
+.elementor-30 .elementor-element.elementor-element-1e414cae .elementor-icon-box-title,
+.elementor-30 .elementor-element.elementor-element-1e414cae .elementor-icon-box-title a {
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 22px;
+    text-transform: capitalize;
+    line-height: 0.7em;
+}
+
+.elementor-30 .elementor-element.elementor-element-1e414cae .elementor-icon-box-description {
+    color: #7a7a7a;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 2em;
+    letter-spacing: 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-1e414cae>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 10px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-195a7706 {
+    --icon-box-icon-margin: 10px;
+}
+
+.elementor-30 .elementor-element.elementor-element-195a7706 .elementor-icon {
+    font-size: 12px;
+}
+
+.elementor-30 .elementor-element.elementor-element-195a7706 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-30 .elementor-element.elementor-element-195a7706 .elementor-icon-box-title {
+    margin-bottom: 7px;
+    color: #000000;
+}
+
+.elementor-30 .elementor-element.elementor-element-195a7706 .elementor-icon-box-title,
+.elementor-30 .elementor-element.elementor-element-195a7706 .elementor-icon-box-title a {
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 22px;
+    text-transform: capitalize;
+    line-height: 0.7em;
+}
+
+.elementor-30 .elementor-element.elementor-element-195a7706 .elementor-icon-box-description {
+    color: #7a7a7a;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 2em;
+    letter-spacing: 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-195a7706>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 10px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-38fd30c5 {
+    --icon-box-icon-margin: 10px;
+}
+
+.elementor-30 .elementor-element.elementor-element-38fd30c5 .elementor-icon {
+    font-size: 12px;
+}
+
+.elementor-30 .elementor-element.elementor-element-38fd30c5 .elementor-icon-box-wrapper {
+    text-align: left;
+}
+
+.elementor-30 .elementor-element.elementor-element-38fd30c5 .elementor-icon-box-title {
+    margin-bottom: 7px;
+    color: #000000;
+}
+
+.elementor-30 .elementor-element.elementor-element-38fd30c5 .elementor-icon-box-title,
+.elementor-30 .elementor-element.elementor-element-38fd30c5 .elementor-icon-box-title a {
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 22px;
+    text-transform: capitalize;
+    line-height: 0.7em;
+}
+
+.elementor-30 .elementor-element.elementor-element-38fd30c5 .elementor-icon-box-description {
+    color: #7a7a7a;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 2em;
+    letter-spacing: 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-38fd30c5>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 10px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-4c5643b6 {
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-63ec0d7d>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-63ec0d7d:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-30 .elementor-element.elementor-element-63ec0d7d>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-30 .elementor-element.elementor-element-63ec0d7d>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: -40px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 6em 6em 8em 6em;
+}
+
+.elementor-30 .elementor-element.elementor-element-63ec0d7d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-63ec0d7d {
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-c03f273 {
+    text-align: left;
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-c03f273 .elementor-heading-title {
+    font-family: "Playfair Display", Sans-serif;
+    text-transform: capitalize;
+    line-height: 1em;
+}
+
+.elementor-30 .elementor-element.elementor-element-c03f273>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-34257b2e {
+    color: #3f3f3f;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2.2em;
+    letter-spacing: 2.2px;
+}
+
+.elementor-30 .elementor-element.elementor-element-34257b2e>.elementor-widget-container {
+    margin: 0px 0px 30px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-4dcec5a {
+    color: #777777;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.2em;
+}
+
+.elementor-30 .elementor-element.elementor-element-4dcec5a>.elementor-widget-container {
+    margin: 0px 0px 30px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-360a1a45:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-30 .elementor-element.elementor-element-360a1a45>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://cabbana.thegriham.com/wp-content/uploads/2022/12/DEEP3903-scaled.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-30 .elementor-element.elementor-element-360a1a45>.elementor-element-populated {
+    border-style: none;
+    box-shadow: 2px -4px 13px 5px rgba(0, 0, 0, 0.5);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-360a1a45>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-16a04398 {
+    --spacer-size: 50px;
+}
+
+.elementor-30 .elementor-element.elementor-element-75dc348e {
+    padding: 0px 0px 0px 0px;
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-6c68c747:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-30 .elementor-element.elementor-element-6c68c747>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://cabbana.thegriham.com/wp-content/uploads/2022/12/restauran-01.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-30 .elementor-element.elementor-element-6c68c747>.elementor-element-populated {
+    border-style: solid;
+    border-width: 6px 6px 0px 0px;
+    border-color: #DFDFDF;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-6c68c747>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-573cbc0a {
+    --spacer-size: 50px;
+}
+
+.elementor-30 .elementor-element.elementor-element-17b7a67d>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-17b7a67d:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-30 .elementor-element.elementor-element-17b7a67d>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-30 .elementor-element.elementor-element-17b7a67d>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: -40px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 6em 6em 8em 6em;
+}
+
+.elementor-30 .elementor-element.elementor-element-17b7a67d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-43de1a4e {
+    text-align: left;
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-43de1a4e .elementor-heading-title {
+    font-family: "Playfair Display", Sans-serif;
+    line-height: 1em;
+}
+
+.elementor-30 .elementor-element.elementor-element-43de1a4e>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-25a1a1fc {
+    color: #3f3f3f;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 2.2em;
+    letter-spacing: 2.2px;
+}
+
+.elementor-30 .elementor-element.elementor-element-25a1a1fc>.elementor-widget-container {
+    margin: 0px 0px 30px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-32c565f7 {
+    color: #4f4f4f;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.2em;
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-32c565f7>.elementor-widget-container {
+    margin: 0px 0px 30px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-7d6d7aa6>.elementor-container {
+    max-width: 960px;
+}
+
+.elementor-30 .elementor-element.elementor-element-7d6d7aa6>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-7d6d7aa6 {
+    padding: 6em 0em 6em 0em;
+}
+
+.elementor-30 .elementor-element.elementor-element-852f19f>.elementor-element-populated {
+    padding: 3em 3em 3em 0em;
+}
+
+.elementor-30 .elementor-element.elementor-element-852f19f {
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-52a28eee {
+    text-align: right;
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-52a28eee .elementor-heading-title {
+    color: #000000;
+    font-family: "Playfair Display", Sans-serif;
+    font-size: 34px;
+    text-transform: capitalize;
+    line-height: 1em;
+}
+
+.elementor-30 .elementor-element.elementor-element-35475f45 {
+    text-align: right;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 2.2em;
+}
+
+.elementor-30 .elementor-element.elementor-element-5a27e05c .elementor-button .elementor-align-icon-right {
+    margin-left: 10px;
+}
+
+.elementor-30 .elementor-element.elementor-element-5a27e05c .elementor-button .elementor-align-icon-left {
+    margin-right: 10px;
+}
+
+.elementor-30 .elementor-element.elementor-element-5a27e05c .elementor-button {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1.6em;
+    letter-spacing: 1.6px;
+    fill: #54595f;
+    color: #54595f;
+    background-color: rgba(163, 141, 1, 0);
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #54595f;
+    border-radius: 50px 50px 50px 50px;
+    padding: 8px 12px 6px 12px;
+}
+
+.elementor-30 .elementor-element.elementor-element-5a27e05c .elementor-button:hover,
+.elementor-30 .elementor-element.elementor-element-5a27e05c .elementor-button:focus {
+    color: #ffffff;
+    background-color: #d67f53;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.elementor-30 .elementor-element.elementor-element-5a27e05c .elementor-button:hover svg,
+.elementor-30 .elementor-element.elementor-element-5a27e05c .elementor-button:focus svg {
+    fill: #ffffff;
+}
+
+.elementor-30 .elementor-element.elementor-element-29854896>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-1f9bc910>.elementor-container {
+    min-height: 400px;
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-1f9bc910>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-1f9bc910 {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-1f9bc910>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-30 .elementor-element.elementor-element-3598b5c8.elementor-column .elementor-widget-wrap {
+    align-items: flex-start;
+}
+
+.elementor-30 .elementor-element.elementor-element-3598b5c8.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-30 .elementor-element.elementor-element-3598b5c8>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-76dd2931 img {
+    width: 100%;
+}
+
+.elementor-30 .elementor-element.elementor-element-1ee870d7>.elementor-container {
+    min-height: 200px;
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-1ee870d7>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-1ee870d7 {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-1ee870d7>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-30 .elementor-element.elementor-element-464ab858.elementor-column .elementor-widget-wrap {
+    align-items: flex-start;
+}
+
+.elementor-30 .elementor-element.elementor-element-464ab858.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-30 .elementor-element.elementor-element-464ab858>.elementor-element-populated {
+    margin: 15px 0px 0px -80px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: -80px;
+}
+
+.elementor-30 .elementor-element.elementor-element-6ae2f7aa img {
+    width: 100%;
+}
+
+.elementor-bc-flex-widget .elementor-30 .elementor-element.elementor-element-78311094.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-78311094.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-78311094>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-5605733>.elementor-container {
+    min-height: 250px;
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-5605733>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-5605733 {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-5605733>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-30 .elementor-element.elementor-element-46302f64.elementor-column .elementor-widget-wrap {
+    align-items: flex-start;
+}
+
+.elementor-30 .elementor-element.elementor-element-46302f64.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-30 .elementor-element.elementor-element-46302f64>.elementor-element-populated {
+    margin: 0px -40px 0px 40px;
+    --e-column-margin-right: -40px;
+    --e-column-margin-left: 40px;
+}
+
+.elementor-30 .elementor-element.elementor-element-3dd08d03 img {
+    width: 100%;
+}
+
+.elementor-30 .elementor-element.elementor-element-36f5bdcf>.elementor-container {
+    min-height: 250px;
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-36f5bdcf>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-36f5bdcf {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #ffffff;
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    z-index: 1;
+}
+
+.elementor-30 .elementor-element.elementor-element-36f5bdcf>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-30 .elementor-element.elementor-element-1436ce88.elementor-column .elementor-widget-wrap {
+    align-items: flex-start;
+}
+
+.elementor-30 .elementor-element.elementor-element-1436ce88.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-30 .elementor-element.elementor-element-1436ce88>.elementor-element-populated {
+    margin: -23px 0px 0px -50px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: -50px;
+}
+
+.elementor-30 .elementor-element.elementor-element-745eb2f2 img {
+    width: 100%;
+}
+
+.elementor-30 .elementor-element.elementor-element-608499b>.elementor-container {
+    max-width: 1400px;
+}
+
+.elementor-30 .elementor-element.elementor-element-608499b:not(.elementor-motion-effects-element-type-background),
+.elementor-30 .elementor-element.elementor-element-608499b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+.elementor-30 .elementor-element.elementor-element-608499b>.elementor-background-overlay {
+    background-color: #ffffff;
+    opacity: 0.93;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-608499b {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-5bd5f5bc>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 80px 50px 80px 80px;
+}
+
+.elementor-30 .elementor-element.elementor-element-5bd5f5bc>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-30 .elementor-element.elementor-element-6c2eefeb>.elementor-container {
+    max-width: 700px;
+}
+
+.elementor-30 .elementor-element.elementor-element-494ad0b3 {
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-494ad0b3 .elementor-heading-title {
+    color: #212121;
+    font-family: "Nunito", Sans-serif;
+    font-size: 1em;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.elementor-30 .elementor-element.elementor-element-8fdbe44 {
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-8fdbe44 .elementor-heading-title {
+    color: #28211a;
+    font-family: "Nunito Sans", Sans-serif;
+    font-size: 3.8em;
+    font-weight: 800;
+    line-height: 1em;
+}
+
+.elementor-30 .elementor-element.elementor-element-22900f88 {
+    --divider-border-style: solid;
+    --divider-color: #ffab00;
+    --divider-border-width: 3px;
+}
+
+.elementor-30 .elementor-element.elementor-element-22900f88 .elementor-divider-separator {
+    width: 72px;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-30 .elementor-element.elementor-element-22900f88 .elementor-divider {
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.elementor-30 .elementor-element.elementor-element-7c1a5d4a {
+    text-align: center;
+    color: #757575;
+    font-family: "Nunito", Sans-serif;
+    font-size: 1em;
+    line-height: 1.7em;
+}
+
+.elementor-30 .elementor-element.elementor-element-7574387b {
+    --spacer-size: 30px;
+}
+
+.elementor-30 .elementor-element.elementor-element-24843b15 .elementor-testimonial-wrapper {
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-24843b15 .elementor-testimonial-content {
+    color: #ffffff;
+    font-family: "Nunito Sans", Sans-serif;
+    font-size: 1.1em;
+    font-style: italic;
+    line-height: 1.7em;
+}
+
+.elementor-30 .elementor-element.elementor-element-24843b15 .elementor-testimonial-wrapper .elementor-testimonial-image img {
+    width: 97px;
+    height: 97px;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-24843b15 .elementor-testimonial-name {
+    color: #ffffff;
+    font-family: "Nunito Sans", Sans-serif;
+    font-size: 1em;
+    letter-spacing: 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-24843b15 .elementor-testimonial-job {
+    color: #ffffff;
+    font-family: "Nunito", Sans-serif;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    line-height: 2.1em;
+    letter-spacing: 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-24843b15>.elementor-widget-container {
+    padding: 2em 2em 2em 2em;
+    background-color: #282828;
+    background-image: url("https://cabbana.thegriham.com/wp-content/uploads/2022/12/zz-testimonial3.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    border-color: #f0f0f0;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-6a413e5f .elementor-testimonial-wrapper {
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-6a413e5f .elementor-testimonial-content {
+    color: #ffffff;
+    font-family: "Nunito Sans", Sans-serif;
+    font-size: 1.1em;
+    font-style: italic;
+    line-height: 1.7em;
+}
+
+.elementor-30 .elementor-element.elementor-element-6a413e5f .elementor-testimonial-wrapper .elementor-testimonial-image img {
+    width: 97px;
+    height: 97px;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-6a413e5f .elementor-testimonial-name {
+    color: #ffffff;
+    font-family: "Nunito Sans", Sans-serif;
+    font-size: 1em;
+    letter-spacing: 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-6a413e5f .elementor-testimonial-job {
+    color: #ffffff;
+    font-family: "Nunito", Sans-serif;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    line-height: 2.1em;
+    letter-spacing: 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-6a413e5f>.elementor-widget-container {
+    padding: 2em 2em 2em 2em;
+    background-color: #282828;
+    background-image: url("https://cabbana.thegriham.com/wp-content/uploads/2022/12/zz-testimonial3.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    border-color: #f0f0f0;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-8b75d5 .elementor-testimonial-wrapper {
+    text-align: center;
+}
+
+.elementor-30 .elementor-element.elementor-element-8b75d5 .elementor-testimonial-content {
+    color: #ffffff;
+    font-family: "Nunito Sans", Sans-serif;
+    font-size: 1.1em;
+    font-style: italic;
+    line-height: 1.7em;
+}
+
+.elementor-30 .elementor-element.elementor-element-8b75d5 .elementor-testimonial-wrapper .elementor-testimonial-image img {
+    width: 97px;
+    height: 97px;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-8b75d5 .elementor-testimonial-name {
+    color: #ffffff;
+    font-family: "Nunito Sans", Sans-serif;
+    font-size: 1em;
+    letter-spacing: 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-8b75d5 .elementor-testimonial-job {
+    color: #ffffff;
+    font-family: "Nunito", Sans-serif;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    line-height: 2.1em;
+    letter-spacing: 1px;
+}
+
+.elementor-30 .elementor-element.elementor-element-8b75d5>.elementor-widget-container {
+    padding: 2em 2em 2em 2em;
+    background-color: #282828;
+    background-image: url("https://cabbana.thegriham.com/wp-content/uploads/2022/12/zz-testimonial3.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    border-color: #f0f0f0;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-30 .elementor-element.elementor-element-2f50cac2 {
+    --spacer-size: 10px;
+}
+
+.elementor-30 .elementor-element.elementor-element-1cf106c7 {
+    --spacer-size: 10px;
+}
+
+body.elementor-page-30:not(.elementor-motion-effects-element-type-background),
+body.elementor-page-30>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #ffffff;
+}
+
+@media(min-width:768px) {
+    .elementor-30 .elementor-element.elementor-element-4cdca976 {
+        width: 59.333%;
+    }
+    .elementor-30 .elementor-element.elementor-element-6f03c35b {
+        width: 40%;
+    }
+    .elementor-30 .elementor-element.elementor-element-63ec0d7d {
+        width: 40%;
+    }
+    .elementor-30 .elementor-element.elementor-element-360a1a45 {
+        width: 60%;
+    }
+    .elementor-30 .elementor-element.elementor-element-6c68c747 {
+        width: 59.333%;
+    }
+    .elementor-30 .elementor-element.elementor-element-17b7a67d {
+        width: 40%;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-30 .elementor-element.elementor-element-8530c15>.elementor-container {
+        min-height: 40vh;
+    }
+    .elementor-30 .elementor-element.elementor-element-8530c15 {
+        padding: 100px 50px 50px 50px;
+    }
+    .elementor-30 .elementor-element.elementor-element-8c5c162 {
+        text-align: left;
+    }
+    .elementor-30 .elementor-element.elementor-element-8c5c162 .elementor-heading-title {
+        font-size: 63px;
+        letter-spacing: -3px;
+    }
+    .elementor-30 .elementor-element.elementor-element-8c5c162>.elementor-widget-container {
+        padding: 0em 0em 0em 0em;
+    }
+    .elementor-30 .elementor-element.elementor-element-5401429a:not(.elementor-motion-effects-element-type-background),
+    .elementor-30 .elementor-element.elementor-element-5401429a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-position: 0px 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-5401429a {
+        padding: 60px 20px 60px 20px;
+    }
+    .elementor-30 .elementor-element.elementor-element-37d70b3c>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-471f65b0 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-56bbd512 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-2fb1deb0 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-89b16a1>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-7fa2c8f>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-c493efb {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-e2af4e8 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-b9ce073 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-6b99326>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-cb9cf98>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-d339dc3 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-bb7652d {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-b12d2db {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-d26d1fb>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-4cdca976>.elementor-element-populated {
+        margin: 40px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-1b963fb2 {
+        --spacer-size: 350px;
+    }
+    .elementor-30 .elementor-element.elementor-element-6f03c35b>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 6em 3em 6em 3em;
+    }
+    .elementor-30 .elementor-element.elementor-element-63ec0d7d>.elementor-element-populated {
+        padding: 6em 3em 6em 3em;
+    }
+    .elementor-30 .elementor-element.elementor-element-16a04398 {
+        --spacer-size: 350px;
+    }
+    .elementor-30 .elementor-element.elementor-element-573cbc0a {
+        --spacer-size: 350px;
+    }
+    .elementor-30 .elementor-element.elementor-element-17b7a67d>.elementor-element-populated {
+        padding: 6em 3em 6em 3em;
+    }
+    .elementor-30 .elementor-element.elementor-element-852f19f>.elementor-element-populated {
+        padding: 20px 20px 20px 20px;
+    }
+    .elementor-30 .elementor-element.elementor-element-52a28eee {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-35475f45 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-8fdbe44 .elementor-heading-title {
+        font-size: 3.5em;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-30 .elementor-element.elementor-element-8530c15 {
+        padding: 150px 20px 50px 20px;
+    }
+    .elementor-30 .elementor-element.elementor-element-e7080c0 {
+        font-size: 9px;
+    }
+    .elementor-30 .elementor-element.elementor-element-e7080c0>.elementor-widget-container {
+        padding: 10px 0px 0px 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-8c5c162 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-8c5c162 .elementor-heading-title {
+        font-size: 40px;
+        letter-spacing: -2px;
+    }
+    .elementor-30 .elementor-element.elementor-element-5401429a:not(.elementor-motion-effects-element-type-background),
+    .elementor-30 .elementor-element.elementor-element-5401429a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-position: 0px 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-5401429a {
+        padding: 60px 20px 60px 20px;
+    }
+    .elementor-30 .elementor-element.elementor-element-471f65b0 .elementor-heading-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .elementor-30 .elementor-element.elementor-element-c493efb .elementor-heading-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .elementor-30 .elementor-element.elementor-element-d339dc3 .elementor-heading-title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .elementor-30 .elementor-element.elementor-element-1b963fb2 {
+        --spacer-size: 250px;
+    }
+    .elementor-30 .elementor-element.elementor-element-6f03c35b>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 3em 3em 6em 3em;
+    }
+    .elementor-30 .elementor-element.elementor-element-5a1be40f {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-447357bf {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-1e414cae .elementor-icon-box-wrapper {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-195a7706 .elementor-icon-box-wrapper {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-38fd30c5 .elementor-icon-box-wrapper {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-63ec0d7d>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 3em 3em 6em 3em;
+    }
+    .elementor-30 .elementor-element.elementor-element-c03f273 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-34257b2e {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-4dcec5a {
+        text-align: left;
+    }
+    .elementor-30 .elementor-element.elementor-element-16a04398 {
+        --spacer-size: 250px;
+    }
+    .elementor-30 .elementor-element.elementor-element-573cbc0a {
+        --spacer-size: 250px;
+    }
+    .elementor-30 .elementor-element.elementor-element-17b7a67d>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 3em 3em 6em 3em;
+    }
+    .elementor-30 .elementor-element.elementor-element-43de1a4e {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-25a1a1fc {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-32c565f7 {
+        text-align: left;
+    }
+    .elementor-30 .elementor-element.elementor-element-7d6d7aa6 {
+        padding: 50px 20px 50px 20px;
+    }
+    .elementor-30 .elementor-element.elementor-element-52a28eee {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-29854896>.elementor-element-populated {
+        padding: 25px 0px 0px 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-1f9bc910>.elementor-container {
+        min-height: 200px;
+    }
+    .elementor-30 .elementor-element.elementor-element-1ee870d7>.elementor-container {
+        min-height: 200px;
+    }
+    .elementor-30 .elementor-element.elementor-element-464ab858>.elementor-element-populated {
+        margin: 15px 0px 0px -20px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: -20px;
+    }
+    .elementor-30 .elementor-element.elementor-element-5605733>.elementor-container {
+        min-height: 200px;
+    }
+    .elementor-30 .elementor-element.elementor-element-46302f64>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+    }
+    .elementor-30 .elementor-element.elementor-element-36f5bdcf>.elementor-container {
+        min-height: 200px;
+    }
+    .elementor-30 .elementor-element.elementor-element-1436ce88>.elementor-element-populated {
+        margin: 15px 0px 0px -20px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: -20px;
+    }
+    .elementor-30 .elementor-element.elementor-element-5bd5f5bc>.elementor-element-populated {
+        padding: 15px 15px 15px 15px;
+    }
+    .elementor-30 .elementor-element.elementor-element-494ad0b3 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-8fdbe44 {
+        text-align: center;
+    }
+    .elementor-30 .elementor-element.elementor-element-8fdbe44 .elementor-heading-title {
+        font-size: 2.5em;
+    }
+    .elementor-30 .elementor-element.elementor-element-22900f88 .elementor-divider-separator {
+        width: 72px;
+        margin: 0 auto;
+        margin-center: 0;
+    }
+    .elementor-30 .elementor-element.elementor-element-22900f88 .elementor-divider {
+        text-align: center;
+    }
+}
+
+@media(max-width:1024px) and (min-width:768px) {
+    .elementor-30 .elementor-element.elementor-element-37d70b3c {
+        width: 100%;
+    }
+    .elementor-30 .elementor-element.elementor-element-7fa2c8f {
+        width: 100%;
+    }
+    .elementor-30 .elementor-element.elementor-element-cb9cf98 {
+        width: 100%;
+    }
+    .elementor-30 .elementor-element.elementor-element-4cdca976 {
+        width: 50%;
+    }
+    .elementor-30 .elementor-element.elementor-element-6f03c35b {
+        width: 50%;
+    }
+    .elementor-30 .elementor-element.elementor-element-63ec0d7d {
+        width: 50%;
+    }
+    .elementor-30 .elementor-element.elementor-element-360a1a45 {
+        width: 50%;
+    }
+    .elementor-30 .elementor-element.elementor-element-6c68c747 {
+        width: 50%;
+    }
+    .elementor-30 .elementor-element.elementor-element-17b7a67d {
+        width: 50%;
+    }
+    .elementor-30 .elementor-element.elementor-element-852f19f {
+        width: 100%;
+    }
+    .elementor-30 .elementor-element.elementor-element-29854896 {
+        width: 50%;
+    }
+    .elementor-30 .elementor-element.elementor-element-78311094 {
+        width: 50%;
+    }
+    .elementor-30 .elementor-element.elementor-element-6424f823 {
+        width: 100%;
+    }
+    .elementor-30 .elementor-element.elementor-element-47765f41 {
+        width: 100%;
+    }
+    .elementor-30 .elementor-element.elementor-element-33c9a936 {
+        width: 100%;
+    }
+}

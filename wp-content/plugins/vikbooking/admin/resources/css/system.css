@@ -1,0 +1,129 @@
+/* required */
+
+label.invalid,
+b.invalid {
+    color: #9d261d;
+}
+
+input.invalid {
+    border: 1px solid #9d261d;
+    background: #f2dede;
+}
+
+/* system messages */
+
+.notice.no-decoration {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background: none;
+    box-shadow: none;
+}
+
+.notice.activate-success {
+    background: #dff0d8;
+    border: 2px solid #56b360;
+    color: #3c763d;
+    box-shadow: none;
+}
+
+#adminForm table[align="center"] {
+    display: block;
+    float: right;
+}
+
+.tablenav input[type="search"] {
+    float: left;
+    height: 28px;
+    margin: 0 4px 0 0;
+}
+
+.acl-rule-allowed,
+.acl-rule-denied {
+    color: #fff;
+    border-radius: 3px;
+    padding: 2px 6px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 32px;
+}
+
+.acl-rule-allowed {
+    background: #3c763d;
+}
+
+.acl-rule-denied {
+    background: #a94442;
+}
+
+/* Yes-No buttons */
+
+.switch-field {
+    font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+    padding: 2px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.switch-title {
+    margin-bottom: 6px;
+}
+
+.switch-field input {
+    position: absolute !important;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    width: 1px;
+    border: 0;
+    overflow: hidden;
+}
+
+.switch-field label {
+    float: left;
+}
+
+.switch-field label {
+    display: inline-block;
+    width: 60px;
+    background-color: #e4e4e4;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: none;
+    padding: 6px 14px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+}
+
+.switch-field label:hover {
+    cursor: pointer;
+}
+
+.switch-field input:checked+label {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #fff;
+}
+
+.switch-field input:checked+label.button-yes {
+    background-color: #2f6f2f;
+}
+
+.switch-field input:checked+label.button-no {
+    background-color: #802420;
+}
+
+.switch-field label:first-of-type {
+    border-radius: 4px 0 0 4px;
+}
+
+.switch-field label:last-of-type {
+    border-radius: 0 4px 4px 0;
+}
